@@ -1,0 +1,78 @@
+.hello{
+    font-family: Arial, Helvetica, sans-serif;
+    color: orange;
+    float: left;
+    text-justify: auto;
+    font-weight: 50px;
+}
+.mark{
+    font-family: system-ui;
+    color: orange;
+}
+
+
+body{
+    background-color: black;
+}
+
+.planet{
+    font-family: 'Times New Roman';
+    border-radius: 19px;
+    color: white;
+    float: right;
+}
+
+.text{
+    font-family: Arial;
+    color: white;
+    float: left;
+    font-size: 25px;
+}
+
+.note{
+    color: white;
+    font-family: system-ui;
+    float: left;
+    font-size: 35px;
+}
+
+.akhir{
+    font-family: Arial;
+    font-size: 22px;
+    color: white;
+    float: left;
+    letter-spacing: 1.2px;
+
+}
+
+.t1{
+    font-family: 'Times New Roman';
+    width: 1px;
+    height: 1px;
+    background: transparent;
+    border: 1px solid orange;
+    margin-top: 13px;
+    color: white;
+    border-right: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+
+.t2{
+    font-family: 'Times New Roman';
+    width: 1px;
+    height: 40px;
+    background: transparent;
+    border: 1px solid orange;
+    margin-top: 1px;
+    color: white;
+    border-right: none;
+    font-size: 16px;
+    float: left;
+    padding: 10px;
+    border-bottom-left-radius: 50px;
+    border-top-left-radius: 5px;
+}
